@@ -1,13 +1,11 @@
-## Welcome to our GitHub!
+## Welcome to Todoware
 
-We are **Todoware**, a new company that aims to create innovative new software.
+# We are **Todoware**, a new company that aims to create innovative new software.
 - Led by developers, we aren't slowed down by the corporate aspects of many other competitors;
 - A growing team where every member is picked specifically because of their experience and potential to thrive;
 - Based in Kazakhstan.
 
-# Plans
-
-Hello everyone, this repo is just so you guys can know what projects are being worked on right now.
+# Workload
 
  - TodoVTT, a virtual tabletop in the works:
 	 - Planned Release: ***Q4 2024***
